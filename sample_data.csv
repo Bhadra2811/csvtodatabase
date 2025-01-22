@@ -1,0 +1,11 @@
+id,name,email,city,status,phone,address,zip_code,country,created_at
+1,John Doe,johndoe@example.com,New York,Active,123-456-7890,123 Main St,10001,USA,2025-01-01
+2,Jane Smith,janesmith@example.com,Los Angeles,Inactive,123-456-7890,123 Main St,10001,USA,2025-01-01
+3,Michael Brown,michaelbrown@example.com,Chicago,Active,123-456-7890,123 Main St,10001,USA,2025-01-01
+4,Emily Davis,emilydavis@example.com,Houston,Pending,123-456-7890,123 Main St,10001,USA,2025-01-01
+5,Daniel Wilson,danielwilson@example.com,Phoenix,Active,123-456-7890,123 Main St,10001,USA,2025-01-01
+6,Sophia Taylor,sophiataylor@example.com,Philadelphia,Inactive,123-456-7890,123 Main St,10001,USA,2025-01-01
+7,Liam Martinez,liammartinez@example.com,San Antonio,Active,123-456-7890,123 Main St,10001,USA,2025-01-01
+8,Olivia Garcia,oliviagarcia@example.com,San Diego,Pending,123-456-7890,123 Main St,10001,USA,2025-01-01
+9,Ethan Anderson,ethananderson@example.com,Dallas,Active,123-456-7890,123 Main St,10001,USA,2025-01-01
+10,Ava Thomas,avathomas@example.com,San Jose,Inactive,123-456-7890,123 Main St,10001,USA,2025-01-01
